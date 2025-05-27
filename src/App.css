@@ -88,3 +88,9 @@
 .AppForm button:active {
   outline: 2px solid blueviolet;
 }
+
+@media screen and (max-width: 700px) {
+  .AppMain h1 {
+    font-size: 40px;
+  }
+}
