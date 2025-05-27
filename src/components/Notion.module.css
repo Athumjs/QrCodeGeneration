@@ -1,0 +1,24 @@
+.background {
+  position: absolute;
+  width: 400px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+
+.text {
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.sucess {
+  background-color: limegreen;
+}
+
+.error {
+  background-color: red;
+}
